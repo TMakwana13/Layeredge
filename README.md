@@ -21,7 +21,7 @@ cd Layeredge
 
 ### Or use this single command to automate the process ⬇️
 ```bash
-git clone https://github.com/pvsairam/Layeredge.git && cd Layeredge && ./layeredge_node.sh
+git clone https://github.com/TMakwana13/Layeredge.git && cd Layeredge && ./layeredge_node.sh
 ```
 
 ## Notes
