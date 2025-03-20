@@ -6,7 +6,7 @@ This script automates the installation process by installing all necessary depen
 
 ### Clone the repository:
 ```bash
-git clone https://github.com/pvsairam/Layeredge.git
+git clone https://github.com/TMakwana13/Layeredge.git
 ```
 
 ### Enter the folder:
